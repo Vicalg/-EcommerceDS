@@ -131,3 +131,4 @@ dmypy.json
 
 ## Files to be ignored added manually
 Data/Data_ECB.csv
+Notebooks/.jupyter/
